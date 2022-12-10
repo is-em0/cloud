@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "830282082333",
+    "project_id": "cloud-isra",
+    "storage_bucket": "cloud-isra.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830282082333:android:87b80f31353784bac77ef4",
+        "android_client_info": {
+          "package_name": "com.example.iug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830282082333-d5a1skrdo40r154ua8npfq0bcalnjhc9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJyCfgTWREA5dnkJlz2HN7ylI-bpK-_3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "830282082333-d5a1skrdo40r154ua8npfq0bcalnjhc9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
